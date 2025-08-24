@@ -1,0 +1,10 @@
+scikit-learn
+torch
+torchvision
+bentoml
+zenml
+zenml[server]
+mlflow
+black
+numpy
+Pillow

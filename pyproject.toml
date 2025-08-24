@@ -1,0 +1,17 @@
+[project]
+name = "mnist-zenml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bentoml>=1.4.21",
+    "black>=25.1.0",
+    "mlflow>=3.3.1",
+    "numpy>=2.3.2",
+    "pillow>=11.3.0",
+    "scikit-learn>=1.7.1",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "zenml[server]>=0.84.2",
+]
