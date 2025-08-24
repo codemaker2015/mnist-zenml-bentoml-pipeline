@@ -131,7 +131,7 @@ curl -H "Content-Type: multipart/form-data" -F'fileobj=@samples/1.png;type=image
 ## Screenshots
 
 ![screenshots](screenshots/pipeline1.png)
-![screenshots](screenshots/pipeline12.png)
+![screenshots](screenshots/pipeline2.png)
 ![screenshots](screenshots/dashboard1.png)
 ![screenshots](screenshots/zenml_dashboard.png)
 ![screenshots](screenshots/bentoml_service.png)
